@@ -1,0 +1,29 @@
+{
+	"parameter_map" : 	{
+		"midi" : 		{
+			"live.dial" : 			{
+				"srcname" : "5.ctrl.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 2
+			}
+,
+			"live.dial[1]" : 			{
+				"srcname" : "1.ctrl.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 2
+			}
+,
+			"live.dial[2]" : 			{
+				"srcname" : "4.ctrl.0.chan.midi",
+				"min" : 0.0,
+				"max" : 1.0,
+				"flags" : 2
+			}
+
+		}
+
+	}
+
+}
